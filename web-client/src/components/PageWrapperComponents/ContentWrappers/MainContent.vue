@@ -1,6 +1,6 @@
 <template>
   <!-- Content Wrapper -->
-  <div id="content-wrapper" class="d-flex flex-column">
+  <div id="main content" class="d-flex flex-column">
     <!-- Main Content -->
     <div id="content">
       <TopBar />
@@ -14,7 +14,7 @@
 import TopBar from './MainContent/TopBar'
 import BeginContent from './MainContent/BeginContent'
 export default {
-   name: 'PageWrapper',
+   name: 'MainContent',
    components: {
       TopBar,
       BeginContent

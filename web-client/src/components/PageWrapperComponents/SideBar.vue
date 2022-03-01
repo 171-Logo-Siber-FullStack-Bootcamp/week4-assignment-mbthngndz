@@ -1,24 +1,11 @@
 <template>
-
-
-   <!-- Sidebar -->
    <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
              <SideBrandComponent></SideBrandComponent>
              <DashBoardComponent></DashBoardComponent>
              <AddonsComponent></AddonsComponent>
              <ChartComponent></ChartComponent>
              <TableComponent></TableComponent>
-
-
-
-
-      
-
-      
-
-
    </ul>
-   <!-- End of Sidebar -->
 </template>
 
 <script>

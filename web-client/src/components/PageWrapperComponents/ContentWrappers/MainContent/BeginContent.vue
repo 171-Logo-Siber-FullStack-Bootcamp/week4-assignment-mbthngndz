@@ -1,5 +1,5 @@
 <template>
-<div class="container-fluid">Deneme</div>
+<div class="container-fluid">Welcome</div>
 </template>
 <script>
 

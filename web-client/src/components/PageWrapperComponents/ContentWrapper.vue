@@ -15,7 +15,7 @@
 import MainContent from "./ContentWrappers/MainContent";
 import FooterContent from "./ContentWrappers/FooterContent";
 export default {
-  name: "PageWrapper",
+  name: "ContentWrapper",
   components: {
     MainContent,
     FooterContent,
